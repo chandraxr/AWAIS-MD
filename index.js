@@ -45,7 +45,7 @@ const Crypto = require('crypto')
 const path = require('path')
 const prefix = config.PREFIX
 
-const ownerNumber = ['447783770746']
+const ownerNumber = ['923182832887']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
@@ -65,7 +65,7 @@ const port = process.env.PORT || 9090;
 //=============================================
 
 async function connectToWA() {
-console.log("CONNECTING SOBIA BOT 🎭...");
+console.log("CONNECTING AWAIS BOT 🎭...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -93,24 +93,24 @@ require("./plugins/" + plugin);
 }
 });
 console.log('PLUGINS FILES INSTALL SUCCESSFULLY ✅')
-console.log('SOBIA MD CONNECTED TO WHATSAPP ENJOY ✅')
+console.log('AWAIS MD CONNECTED TO WHATSAPP ENJOY ✅')
 
 let up = `*╭──────────────●●►*
-> * Sᴏʙɪᴀ Mᴅ Cᴏɴɴᴇᴄᴛᴇᴅ Sᴜᴄᴄᴇssғᴜʟʏ Tʏᴘᴇ .Mᴇɴᴜ Tᴏ Gᴇᴛ Cᴏᴍᴍᴀɴᴅ Lɪsᴛ Cʀᴇᴀᴛᴇᴅ Bʏ Sᴏʙɪᴀ Wɪᴛʜ Uᴍ4ʀ*
+> * Awais Mᴅ Cᴏɴɴᴇᴄᴛᴇᴅ Sᴜᴄᴄᴇssғᴜʟʏ Tʏᴘᴇ .Mᴇɴᴜ Tᴏ Gᴇᴛ Cᴏᴍᴍᴀɴᴅ Lɪsᴛ Cʀᴇᴀᴛᴇᴅ Bʏ Crew Awais*
 
-> *Jᴏɪɴ Oᴜʀ Wʜᴀᴛsᴀᴘᴘ Cʜᴀɴɴᴇʟ Fᴏʀ Uᴘᴅᴀᴛᴇs Oꜰ Sᴏʙɪᴀ Mᴅ*
+> *Jᴏɪɴ Oᴜʀ Wʜᴀᴛsᴀᴘᴘ Cʜᴀɴɴᴇʟ Fᴏʀ Uᴘᴅᴀᴛᴇs Oꜰ Awais Mᴅ*
 
-*https://whatsapp.com/channel/0029VaswGwq5a23yxeJ6YB3t*
+*https://whatsapp.com/channel/0029VashGieHAdNP11OHXH3P*
 
 > *Fᴏʟʟᴏᴡ Uꜱ Oɴ Iɴꜱᴛᴀɢʀᴀᴍ*
 
 *https://Instagram.com/um4rxd*
 
-*╭⊱✫ SOBIA MD ✫⊱╮*
-*│✫➠ - 📂REPOSITORY NAME:* *SOBIA MD*
+*╭⊱✫ Awaisxchuzza MD ✫⊱╮*
+*│✫➠ - 📂REPOSITORY NAME:* *Awais MD*
 *│✫➠ - 📃DESCRIPTION:* *PAKISTANI BEST BOT*
-*│✫➠ - 🛡️OWNER:* *SOBIA BUTT*
-*│✫➠ - 🌐URL:* *https://github.com/Um4r719/SOBIA-MD*
+*│✫➠ - 🛡️OWNER:* *Crew Awais *
+*│✫➠ - 🌐URL:* *https://github.com/Awais-star-a11y/AWAIS-MD*
 
 *YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\n*PREFIX: ${prefix}*
 
@@ -179,12 +179,12 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
               }
             }
 //================ownerreact
-if(senderNumber.includes("447783770746")){
+if(senderNumber.includes("923182832887")){
 if(isReact) return
 m.react("👑")
 }
 
-if(senderNumber.includes("447783770746")){
+if(senderNumber.includes("923182832887")){
 if(isReact) return
 m.react("👑")
 }
@@ -259,7 +259,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("HEY, SOBIA MD BOT WILL BE STARTED ✅");
+res.send("HEY, AWAIS MD BOT WILL BE STARTED ✅");
 });
 app.listen(port, () => console.log(`Um4d Server listening on port http://localhost:${port}`));
 setTimeout(() => {
