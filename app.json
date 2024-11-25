@@ -1,6 +1,6 @@
 {
-  "name": "SILENT-SOBX-MD",
-  "description": "SOBIA MD IS THE MAKE BY USING BAILEY'S",
+  "name": "AWAIS-CHUZZA-MD",
+  "description": "AWAIS MD IS THE MAKE BY USING BAILEY'S",
   "logo": "https://files.catbox.moe/m1rf91.jpg",
   "keywords": ["bot"],
   "success_url": "/",
@@ -95,7 +95,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "SOBIA MD"
+      "value": "AWAIS MD"
     }
 
 },
