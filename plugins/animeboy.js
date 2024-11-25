@@ -2,10 +2,10 @@ const axios = require('axios');
 const { cmd, commands } = require('../command');
 
 cmd({
-    pattern: "animegirl",
-    desc: "Fetch a random anime girl image.",
+    pattern: "animeboy",
+    desc: "Fetch a random anime boy image.",
     category: "fun",
-    react: "👧",
+    react: "♥️",
     filename: __filename
 },
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
@@ -14,7 +14,67 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const response = await axios.get(apiUrl);
         const data = response.data;
 
-        await conn.sendMessage(from, { image: { url: data.url }, caption: '👸 *SOBIA MD RANDOM ANIME GIRL IMAGES* 👸\n\n\n *🧬©SOBIA MD BY SOBIA BUTT*' }, { quoted: mek });
+        await conn.sendMessage(from, { image: { url: data.url }, caption: '❤️ *AWAIS MD RANDOM ANIME BOY IMAGES* ♥️\n\n\n *🧬©AWAIS MD BY CREW AWAIS*' }, { quoted: mek });
+    } catch (e) {
+        console.log(e);
+        reply(`*Error Fetching Anime Boy image*: ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "animeboy1",
+    desc: "Fetch a random anime boy image.",
+    category: "fun",
+    react: "❤️",
+    filename: __filename
+},
+async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
+    try {
+        const apiUrl = `https://api.waifu.pics/sfw/waifu`;
+        const response = await axios.get(apiUrl);
+        const data = response.data;
+
+        await conn.sendMessage(from, { image: { url: data.url }, caption: '❤️ *AWAIS-MD RANDOM ANIME BOY IMAGES* ❤️\n\n\n *🧬©AWAIS MD BY CREW AWAIS*' }, { quoted: mek });
+    } catch (e) {
+        console.log(e);
+        reply(`*Error Fetching Anime Boy image*: ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "animeboyl2",
+    desc: "Fetch a random anime boy image.",
+    category: "fun",
+    react: "❤️",
+    filename: __filename
+},
+async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
+    try {
+        const apiUrl = `https://api.waifu.pics/sfw/waifu`;
+        const response = await axios.get(apiUrl);
+        const data = response.data;
+
+        await conn.sendMessage(from, { image: { url: data.url }, caption: '❤️ *AWAIS-MD RANDOM ANIME BOY IMAGES* ❤️\n\n\n *🧬©Awais-MD BY AWAIS887*' }, { quoted: mek });
+    } catch (e) {
+        console.log(e);
+        reply(`*Error Fetching Anime Boy image*: ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "animeboy3",
+    desc: "Fetch a random anime girl image.",
+    category: "fun",
+    react: "❤️",
+    filename: __filename
+},
+async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
+    try {
+        const apiUrl = `https://api.waifu.pics/sfw/waifu`;
+        const response = await axios.get(apiUrl);
+        const data = response.data;
+
+        await conn.sendMessage(from, { image: { url: data.url }, caption: '❤️ *AWAIS-MD RANDOM ANIME BOY IMAGES* ❤️\n\n\n *🧬©AWAIS MD BY CREW AWAIS*' }, { quoted: mek });
     } catch (e) {
         console.log(e);
         reply(`*Error Fetching Anime Girl image*: ${e.message}`);
@@ -22,10 +82,10 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 });
 
 cmd({
-    pattern: "animegirl1",
-    desc: "Fetch a random anime girl image.",
+    pattern: "animeboy4",
+    desc: "Fetch a random anime boy image.",
     category: "fun",
-    react: "👧",
+    react: "❤️",
     filename: __filename
 },
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
@@ -34,18 +94,18 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const response = await axios.get(apiUrl);
         const data = response.data;
 
-        await conn.sendMessage(from, { image: { url: data.url }, caption: '👸 *SOBIA-MD RANDOM ANIME GIRL IMAGES* 👸\n\n\n *🧬©SOBIA MD BY SOBIA BUTT*' }, { quoted: mek });
+        await conn.sendMessage(from, { image: { url: data.url }, caption: '❤️ *AWAIS-MD RANDOM ANIME BOY IMAGES* ❤️\n\n\n *🧬©AWAIS MD BY AWAIS*' }, { quoted: mek });
     } catch (e) {
         console.log(e);
-        reply(`*Error Fetching Anime Girl image*: ${e.message}`);
+        reply(`*Error Fetching Anime boy image*: ${e.message}`);
     }
 });
 
 cmd({
-    pattern: "animegirl2",
-    desc: "Fetch a random anime girl image.",
+    pattern: "animeBoy5",
+    desc: "Fetch a random anime boy image.",
     category: "fun",
-    react: "👧",
+    react: "❤️",
     filename: __filename
 },
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
@@ -54,69 +114,9 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const response = await axios.get(apiUrl);
         const data = response.data;
 
-        await conn.sendMessage(from, { image: { url: data.url }, caption: '👸 *SOBIA-MD RANDOM ANIME GIRL IMAGES* 👸\n\n\n *🧬©SILENT-SOBX-MD BY SILENTLOVER432*' }, { quoted: mek });
+        await conn.sendMessage(from, { image: { url: data.url }, caption: '❤️ *AWAIS-MD RANDOM ANIME BOYS IMAGES* 👸\n\n\n *🧬©AWAIS MD BY CREW AWAIS*' }, { quoted: mek });
     } catch (e) {
         console.log(e);
-        reply(`*Error Fetching Anime Girl image*: ${e.message}`);
-    }
-});
-
-cmd({
-    pattern: "animegirl3",
-    desc: "Fetch a random anime girl image.",
-    category: "fun",
-    react: "👧",
-    filename: __filename
-},
-async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
-    try {
-        const apiUrl = `https://api.waifu.pics/sfw/waifu`;
-        const response = await axios.get(apiUrl);
-        const data = response.data;
-
-        await conn.sendMessage(from, { image: { url: data.url }, caption: '👸 *SOBIA-MD RANDOM ANIME GIRL IMAGES* 👸\n\n\n *🧬©SOBIA MD BY SOBIA BUTT*' }, { quoted: mek });
-    } catch (e) {
-        console.log(e);
-        reply(`*Error Fetching Anime Girl image*: ${e.message}`);
-    }
-});
-
-cmd({
-    pattern: "animegirl4",
-    desc: "Fetch a random anime girl image.",
-    category: "fun",
-    react: "👧",
-    filename: __filename
-},
-async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
-    try {
-        const apiUrl = `https://api.waifu.pics/sfw/waifu`;
-        const response = await axios.get(apiUrl);
-        const data = response.data;
-
-        await conn.sendMessage(from, { image: { url: data.url }, caption: '👸 *SOBIA-MD RANDOM ANIME GIRL IMAGES* 👸\n\n\n *🧬©SOBIA MD BY SOBIA BUTT*' }, { quoted: mek });
-    } catch (e) {
-        console.log(e);
-        reply(`*Error Fetching Anime Girl image*: ${e.message}`);
-    }
-});
-
-cmd({
-    pattern: "animegirl5",
-    desc: "Fetch a random anime girl image.",
-    category: "fun",
-    react: "👧",
-    filename: __filename
-},
-async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
-    try {
-        const apiUrl = `https://api.waifu.pics/sfw/waifu`;
-        const response = await axios.get(apiUrl);
-        const data = response.data;
-
-        await conn.sendMessage(from, { image: { url: data.url }, caption: '👸 *SOBIA-MD RANDOM ANIME GIRL IMAGES* 👸\n\n\n *🧬©SOBIA MD BY SOBIA BUTT*' }, { quoted: mek });
-    } catch (e) {
-        console.log(e);
-        reply(`*Error Fetching Anime Girl image*: ${e.message}`);
+        reply(`*Error Fetching Anime Boy image*: ${e.message}`);
     }
 });
