@@ -13,13 +13,13 @@ try{
 let repo =`
 *╭──────────────●●►*
 > *BOT OWNER:*
-*|* *SOBIA BUTT*
+*|* *CREW AWAIS*
 
-> *SOBIA MD REPO:*
-*|* *https://github.com/Sobxsparl/SOBIA-MD*
+> *AWAIS MD REPO:*
+*|* *https://github.com/Awais-star-a11y/AWAIS-MD*
 
 > *SUPPORT CHANNEL:*
-*|* *https://whatsapp.com/channel/0029VaswGwq5a23yxeJ6YB3t*
+*|* *https://whatsapp.com/channel/0029VashGieHAdNP11OHXH3P*
 *╰──────────────●●►*
 
 > *update command Done*
@@ -36,11 +36,11 @@ await conn.sendMessage(from, { text: repo ,
       serverMessageId: 999
     },
 externalAdReply: { 
-title: 'SOBIA MD',
+title: 'AWAIS MD',
 body: `${pushname}`,
 mediaType: 1,
-sourceUrl: "https://github.com/Sobxsparl/SOBIA-MD" ,
-thumbnailUrl: "https://files.catbox.moe/m1rf91.jpg" ,
+sourceUrl: "https://github.com/Awais-star-a11y/AWAIS-MD" ,
+thumbnailUrl: "https://files.catbox.moe/4rihkc.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
