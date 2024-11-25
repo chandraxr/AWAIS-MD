@@ -23,7 +23,7 @@ async (conn, mek, m, { from, q, reply }) => {
         const translation = response.data.responseData.translatedText;
 
         const translationMessage = `
-🌍 *SOBIA MD TRANSLATION* 🌍
+🌍 *AWAIS MD TRANSLATION* 🌍
 
 🔤 *Original*: ${textToTranslate}
 
@@ -31,7 +31,7 @@ async (conn, mek, m, { from, q, reply }) => {
 
 🌐 *Language*: ${targetLang.toUpperCase()}
 
-*SILENT-SOBX-MD CREATION*`;
+*AWAIS-MD CREATION*`;
 
         return reply(translationMessage);
     } catch (e) {
