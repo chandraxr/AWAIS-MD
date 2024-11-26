@@ -249,7 +249,7 @@ jobs:
 
 -------------
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/4rihkc.jpg'/></a>
 
 ------------
 
@@ -261,8 +261,8 @@ jobs:
 
 -------------------
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/4rihkc.jpg'/></a>
+<a><img src='https://files.catbox.moe/4rihkc.jpg'/></a>
 
 -----------
 
