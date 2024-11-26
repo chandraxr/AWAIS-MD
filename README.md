@@ -1,21 +1,21 @@
 ---------
 
-### <br>  ❖ SILENT-SOBX-MD ❖
-🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY SILENTLOVER 432`** 🔰
+### <br>  ❖ AWAIS-CHUZA-MD ❖
+🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY CREWAWAIS 887`** 🔰
 
 ----------
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/4rihkc.jpg'/></a>
 
 -------
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`SILENT+-+SOBX+-+MD+WHATSAPP+BOT`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`+-AWAIS+CHUZA+-+MD+WHATSAPP+BOT`" alt="">
 
 ------------
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=SILENT%20SOBX%20MD%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20SILENT%20LOVER%20432%20KING%20OF%20KINGS%20OWNER%20SILENT%20LOVER%20AND%20SOBIA%20BUTT♥️&image=https://telegra.ph/file/e47b23583ab7ec42d58df.jpg?v=4&backgroundColor=%23ecf0f1&github=SILENTLOVER4&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=AWAIS%20CHUZA%20MD%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20CREW%20AWAIS%20432%20KING%20OF%20KINGS%20OWNER%20CREW%20AWAIS%20AND%20CRE%20CHUZZA♥️&image=https://files.catbox.moe/4rihkc.jpg?v=4&backgroundColor=%23ecf0f1&github=AWAISSTAR&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <br>
 
@@ -26,11 +26,11 @@ src="https://cardivo.vercel.app/api?name=SILENT%20SOBX%20MD%20V2&description=�
 --------
 
 <p align="center">
-<a href="https://github.com/SILENTLOVER40/"><img title="Followers" src="https://img.shields.io/github/followers/SILENTLOVER40?color=blue&style=flat-square"></a>
-<a href="https://github.com/SILENTLOVER40/SILENT-SOBX-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SILENTLOVER40/SILENT-SOBX-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/SILENTLOVER40/SILENT-SOBX-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SILENTLOVER40/SILENT-SOBX-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/SILENTLOVER40/SILENT-SOBX-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/SILENTLOVER40/SILENT-SOBX-MD?style=flat-square&color=blue"></a>
-<a href="https://github.com/SILENTLOVER40/SILENT-SOBX-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Awais-star-a11y/AWAIS-MD/"><img title="Followers" src="https://img.shields.io/github/followers/AWAIS-STAR-A11Y?color=blue&style=flat-square"></a>
+<a href="https://github.com/Awais-star-a11y/AWAIS-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SILENTLOVER40/SILENT-SOBX-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Awais-star-a11y/AWAIS-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AWAIS-STAR-A11Y/AWAIS-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Awais-star-a11y/AWAIS-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/awais-star-a11y/AWAIS-MD?style=flat-square&color=blue"></a>
+<a href="https://github.com/Awais-star-a11y/AWAIS-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -38,12 +38,12 @@ src="https://cardivo.vercel.app/api?name=SILENT%20SOBX%20MD%20V2&description=�
 -----------
 ----------
 
-<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD/count.svg" /><br>SILENT-SOBX-MD-V2</div>
+<div align="center"><br> <img src="https://profile-counter.glitch.me/AWAIS-MD/count.svg" /><br>AWAIS-MD-V2</div>
 
 ------------
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/4rihkc.jpg'/></a>
+<a><img src='https://files.catbox.moe/4rihkc.jpg'/></a>
 
 --------------
 
@@ -51,16 +51,16 @@ src="https://cardivo.vercel.app/api?name=SILENT%20SOBX%20MD%20V2&description=�
 
 ----------------
 
-![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSILENTLOVER40%2FSILENT-SOBX-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAWAIS%2FAWAIS-CHUZZA-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
 
-![forks](https://img.shields.io/github/forks/SILENTLOVER40/SILENT-SOBX-MD?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/awais-star-a11y/AWAIS-MD?label=Forks&style=social)
 
 
-![stars](https://img.shields.io/github/stars/SILENTLOVER40/SILENT-SOBX-MD?style=social)
+![stars](https://img.shields.io/github/stars/awais-star-a11y/AWAIS-MD?style=social)
 
 
-[![FORK SILENT-SOBX-MD](https://img.shields.io/badge/FORK%20-SILENT%20SOBX%20MD-white)](https://github.com/SILENTLOVER40/SILENT-SOBX-MD/fork)
+[![FORK CREW AWAIS-MD](https://img.shields.io/badge/FORK%20-AWAIS%20CHUZA%20MD-white)](https://github.com/awais-star-a11y/AWAIS-MD/fork)
 
 `⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛`
 
@@ -81,29 +81,29 @@ src="https://cardivo.vercel.app/api?name=SILENT%20SOBX%20MD%20V2&description=�
 
 ### <br> ❖ FOR SUPPORT ❖
 
-**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME SILENT✠LOVER⁴³²࿐➺`**
+**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME CREW✠AWAIS࿐➺`**
 
 -------
 
 <p align="center">
-  <a href="https://wa.me/+923096287432?text=*ʜɪɪ+sɪʟᴇɴᴛʟᴏᴠᴇʀ--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
+  <a href="https://wa.me/+923182832887?text=*ʜɪɪ+crew AWAIS--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+AWAIS-ᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 -----------    
 
-`✠ IF YOU WANT MORE ABOUT SILENT-SOBX-MD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO JOIN OUR WHATSAPP GROUP FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP ✠`
+`✠ IF YOU WANT MORE ABOUT AWAIS-MD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO JOIN OUR WHATSAPP GROUP FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP ✠`
 
 ---------
 
-<a href="https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+<a href="https://whatsapp.com/channel/0029VashGieHAdNP11OHXH3P"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 -----------
 
-`✠ IF YOU WANT MORE ABOUT SILENT-SOBX-MD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL ✠`
+`✠ IF YOU WANT MORE ABOUT AWAIS-MD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL ✠`
 
 ----------
 
-<a href="https://youtube.com/@silentlover432?si=F1IIc1As0gu3ijqk"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+<a href="nill"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 --------------
 
@@ -113,12 +113,12 @@ src="https://cardivo.vercel.app/api?name=SILENT%20SOBX%20MD%20V2&description=�
 
 <br>
 
-`✠ HOW TO DEPLOY SILENT-SOBX-MD ON HEROKU WATCH VIDEO AND SUPPORT OUR YOUTUBE CHANNEL ✠`
+`✠ HOW TO DEPLOY AWAIS-MD ON HEROKU WATCH VIDEO AND SUPPORT OUR YOUTUBE CHANNEL ✠`
 
 -------------
 
 <p align="center">
-   <a href="https://youtu.be/zBNbbkTFyG4?si=_a-skfMMehMd5zMT"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+   <a href="nill"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
     </a>
 </p>
 
@@ -140,27 +140,27 @@ src="https://cardivo.vercel.app/api?name=SILENT%20SOBX%20MD%20V2&description=�
  
 ### <br>   ❖ DEPLOY_HEROKU ❖
 
-`✠ IF YOU WANT TO DEPLOY SILENT-SOBX-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
+`✠ IF YOU WANT TO DEPLOY AWAIS-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
 
 ------------
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/SILENTLOVER40/SILENT-SOBX-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/Awais-star-a11y/AWAIS-MD)
 
 ----------
 
 ### <br>    ❖ DEPLOY_REPLIT ❖
 
-`✠ IF U HAVE YOUR REPLIT ACCOUNT SO YOU CAN EASY DEPLOY SILENT-SOBX-MD ON REPLIT CLICK BLACK BUTTON [DEPLOY TO REPLIT] AND FIND CONFIG.JSON FILE THEN PASTE YOUR SESSION AND MONGODB KEY THEN RUN CODE AND ENJOY BOT ✠`
+`✠ IF U HAVE YOUR REPLIT ACCOUNT SO YOU CAN EASY DEPLOY AWAIS-MD ON REPLIT CLICK BLACK BUTTON [DEPLOY TO REPLIT] AND FIND CONFIG.JSON FILE THEN PASTE YOUR SESSION AND MONGODB KEY THEN RUN CODE AND ENJOY BOT ✠`
 
 -------------
 
-<p align="left"><a href="https://repl.it/github/SILENTLOVER40/SILENT-SOBX-MD"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+<p align="left"><a href="https://repl.it/github/awais-star-a11y/AWAIS-MD"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 --------------
 
 ### <br>   ❖ DEPLOY_KOYEB ❖
 
-`✠ IF YOU HAVE YOUR KOYEB ACCOUNT SO YOU CAN DEPLOY SILENT-SOBX-MD ON KOYEB WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON ✠`
+`✠ IF YOU HAVE YOUR KOYEB ACCOUNT SO YOU CAN DEPLOY AWAIS-MD ON KOYEB WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON ✠`
 
 ---------
 
@@ -170,7 +170,7 @@ src="https://cardivo.vercel.app/api?name=SILENT%20SOBX%20MD%20V2&description=�
 
 ### <br>  ❖ DEPLOY_RAILWAY ❖
 
-`✠ IF YOU HAVE YOUR RAILWAY ACCOUNT SO YOU CAN DEPLOY SILENT-SOBX-MD ON RAILWAY WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON ✠`
+`✠ IF YOU HAVE YOUR RAILWAY ACCOUNT SO YOU CAN DEPLOY AWAIS-MD ON RAILWAY WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON ✠`
 
 --------
 
@@ -266,11 +266,11 @@ jobs:
 
 -----------
 
-***⚠️THANKS FOR USING SILENT-SOBX-MD WHATSAPP BOT IF U HAVE ANY PROBLEM YOU CAN CONTECT ME NOTE SILENT-SOBX-MD A ANTIBAN WHATSAPP BOT BUT IF YOUR WHATSAPP ACCOUNT BANNED THEN I'M NO RESPONSE ABLE THANKYOU BY SILENTLOVER432 KING OF WHATSAPP♥️☣️🥂***
+***⚠️THANKS FOR USING AWAIS-MD WHATSAPP BOT IF U HAVE ANY PROBLEM YOU CAN CONTECT ME NOTE AWAIS-MD A ANTIBAN WHATSAPP BOT BUT IF YOUR WHATSAPP ACCOUNT BANNED THEN I'M NO RESPONSE ABLE THANKYOU BY AWAISSTARKING OF WHATSAPP♥️☣️🥂***
 
 ------------
 
-![license](https://img.shields.io/github/license/SILENTLOVER40/SILENT-SOBX-MD?color=green&label=License&style=plastic)
+![license](https://img.shields.io/github/license/awais-star-a11y/AWAIS-MD?color=green&label=License&style=plastic)
 
 ----------
 
