@@ -1,7 +1,7 @@
 {
   "name": "AWAIS-CHUZZA-MD",
   "description": "AWAIS MD IS THE MAKE BY USING BAILEY'S",
-  "logo": "https://files.catbox.moe/4rihkc.jpg",
+  "logo": "https://endpoint.web.id/server/file/8pBiiohWNq6V5rz.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://files.catbox.moe/4rihkc.jpg"
+      "value": "https://endpoint.web.id/server/file/8pBiiohWNq6V5rz.jpg"
     }, 
     
     "ALIVE_MSG": {
