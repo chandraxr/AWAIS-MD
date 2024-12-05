@@ -63,17 +63,17 @@ const ZipLovely = JSON.parse(fs.readFileSync('./database/autoreply/zip.json'))
 const ApkLovely = JSON.parse(fs.readFileSync('./database/autoreply/apk.json'))
 
 //time
-const xtime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
-        const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
-        const time2 = moment().tz('Asia/Kolkata').format('HH:mm:ss')  
+const xtime = moment.tz('Pakistan/Gujrat').format('HH:mm:ss')
+        const xdate = moment.tz('Pakistan/Gujrat').format('DD/MM/YYYY')
+        const time2 = moment().tz('Pakistan/Gujrat').format('HH:mm:ss')  
          if(time2 < "23:59:00"){
-var lovelytimewisher = `Good Night ðŸŒŒ`
+var lovelytimewisher = `Good Night tata`
  }
  if(time2 < "19:00:00"){
-var lovelytimewisher = `Good Evening ðŸŒƒ`
+var lovelytimewisher = `Good Evening tata`
  }
  if(time2 < "18:00:00"){
-var lovelytimewisher = `Good Evening ðŸŒƒ`
+var lovelytimewisher = `Good Evening tata`
  }
  if(time2 < "15:00:00"){
 var lovelytimewisher = `Good Afternoon ðŸŒ…`
