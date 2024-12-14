@@ -83,7 +83,7 @@ console.log('PLUGINS FILES INSTALL SUCCESSFULLY ✅')
 console.log('AWAIS MD CONNECTED TO WHATSAPP ENJOY ✅')
 
 let up = `*╭──────────────●●►*
-> * Awais Mᴅ Cᴏɴɴᴇᴄᴛᴇᴅ Sᴜᴄᴄᴇssғᴜʟʏ Tʏᴘᴇ .Mᴇɴᴜ Tᴏ Gᴇᴛ Cᴏᴍᴍᴀɴᴅ Lɪsᴛ Cʀᴇᴀᴛᴇᴅ Bʏ Crew Awais*
+> *Awais Mᴅ Cᴏɴɴᴇᴄᴛᴇᴅ Sᴜᴄᴄᴇssғᴜʟʏ Tʏᴘᴇ .Mᴇɴᴜ Tᴏ Gᴇᴛ Cᴏᴍᴍᴀɴᴅ Lɪsᴛ Cʀᴇᴀᴛᴇᴅ Bʏ Crew Awais*
 
 > *Jᴏɪɴ Oᴜʀ Wʜᴀᴛsᴀᴘᴘ Cʜᴀɴɴᴇʟ Fᴏʀ Uᴘᴅᴀᴛᴇs Oꜰ Awais Mᴅ*
 
