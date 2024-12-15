@@ -28,7 +28,6 @@
     "google-tts-api": "^2.0.2",
     "punycode.js": "2.3.1", 
     "ruhend-scraper" : "8.0.3",
-    "google-tts-api": "^2.0.2",
     "buffer" : "6.0.3",
     "android-versions": "2.0.0",
     "javascript-obfuscator": "^4.1.1",
@@ -82,5 +81,5 @@
     "@mrnima/tiktok-downloader":"1.0.0",
     "@mrnima/facebook-downloader":"1.0.0",
     "mrnima-moviedl":"1.0.0"
-  }
+    }
 }
