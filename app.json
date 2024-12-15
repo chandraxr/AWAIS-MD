@@ -1,7 +1,7 @@
 {
-  "name": "AWAIS-CHUZZA-MD",
-  "description": "AWAIS MD IS THE MAKE BY USING BAILEY'S",
-  "logo": "https://endpoint.web.id/server/file/8pBiiohWNq6V5rz.jpg",
+  "name": "AWAIS-MD",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀᴡᴀɪs ᴍᴅ",
+  "logo": "https://endpoint.web.id/server/file/8Cmyffly1bMBLr.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,13 +16,13 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://endpoint.web.id/server/file/8pBiiohWNq6V5rz.jpg"
+      "value": "https://endpoint.web.id/server/file/8Cmyffly1bMBLr.jpg"
     }, 
     
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "Hey Babew Your Employee is available for you"
+      "value": "ʜɪɪ ᴍʏ ᴅᴇᴀʀ ғʀɪᴇɴᴅ ɪᴍ ᴀʟɪᴠᴇ ɴᴏᴡ.!!"
     },
     
     "PREFIX": {
@@ -52,7 +52,7 @@
     "AUTO_STICKER": {
       "description": "Make it true if you want bot auto sticker.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
     "AUTO_READ_STATUS": {
@@ -70,7 +70,7 @@
     "ANTI_BAD": {
       "description": "Make it true if you want bot auto delete bad words from group example xxx porn etc.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
     "FAKE_RECORDING": {
@@ -95,8 +95,31 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "AWAIS MD"
+      "value": "ᴀᴡᴀɪs ᴍᴅ"
+    }, 
+
+    "HEART_REACT": {
+      "description": "Make it true if you want bot only heart ♥️ emjois reaction .",
+      "required": true,
+      "value": "false"
+    }, 
+
+    "READ_MESSAGE": {
+      "description": "Make it true if you want bot read your all sms just now.",
+      "required": true,
+      "value": "false"
+    }, 
+    "CAPTION": {
+      "description": "enter your caption if you want to show on menu.",
+      "required": true,
+      "value": "POWERED BY AWAISMD"
+    }, 
+    "STATUS_REPLY": {
+      "description": "enter your caption if you want to show on status reply.",
+      "required": true,
+      "value": "𝒚𝒐𝒖𝒓 𝒔𝒕𝒂𝒕𝒖𝒔 𝒔𝒆𝒆𝒏 𝒋𝒖𝒔𝒕 𝒏𝒐𝒘 𝒃𝒚 𝒂𝒘𝒂𝒊𝒔 𝒎𝒅"
     }
+
 
 },
 
