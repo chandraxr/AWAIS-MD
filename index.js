@@ -1,6 +1,3 @@
- 
-Created by @Um4r719
-*/
 
 const {
 default: makeWASocket,
