@@ -14,7 +14,7 @@ module.exports = {
     AUTO_VOICE: process.env.AUTO_VOICE || "true",
     AUTO_STICKER: process.env.AUTO_STICKER || "false",
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
-    ALIVE_IMG: process.env.ALIVE_IMG || "https://endpoint.web.id/server/file/8Cmyffly1bMBLr.jpg",
+    ALIVE_IMG: process.env.ALIVE_IMG || "https://qu.ax/QkpAj.jpg",
     ALIVE_MSG: process.env.ALIVE_MSG || "HII DEAR IM ONLINE I'M AWAIS-MD WHATSAPP BOT 😊♻️",
     ANTI_LINK: process.env.ANTI_LINK || "true",
     ANTI_BAD: process.env.ANTI_BAD || "true",
