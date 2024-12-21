@@ -9,7 +9,7 @@
     "restart": "pm2 restart AWAIS-MD"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "git+https://github.com/prabathLK/Baileys-6.0.0.git#master",
+    "@whiskeysockets/baileys": "6.0.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@stablelib/x25519-session": "2.0.0",
     "@types/android-versions": "1.8.3",
