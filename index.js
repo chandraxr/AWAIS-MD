@@ -98,7 +98,7 @@ let up = `*╭──────────────●●►*
 *YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\n*PREFIX: ${prefix}*
 
 *╰──────────────●●►*`;
-conn.sendMessage(conn.user.id, { image: { url: `https://endpoint.web.id/server/file/8Cmyffly1bMBLr.jpg` }, caption: up })
+conn.sendMessage(conn.user.id, { image: { url: `https://qu.ax/QkpAj.jpg` }, caption: up })
 
 }
 })
