@@ -2,7 +2,6 @@ const config = require('../config')
 const {cmd , commands} = require('../command')
 const os = require("os")
 const {runtime} = require('../lib/functions')
-const axios = require('axios')
 
 cmd({
 
@@ -22,9 +21,8 @@ cmd({
 
 },
 
-async(conn, mek, m,{from, l, quoted, body, isCmd, umarmd, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
-
-try{
+async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
+    try {
 let madeMenu = `╭━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 
 *⇆ ʜɪ ᴍʏ ᴅᴇᴀʀ ꜰʀɪᴇɴᴅ ⇆*
@@ -201,7 +199,7 @@ let madeMenu = `╭━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 ╘✦•·········•••••••••············•✦ 
 `
 
-await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:madeMenu},{quoted:mek})
+await conn.sendMessage(from,{image:{url:`${config.ALIVE_IMG}`},caption:madeMenu},{quoted:mek})
 
 }catch(e){
 console.log(e)
